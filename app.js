@@ -1,3 +1,3 @@
-alert('Hello cool kid')
+alert('Hello cool kid');
 
 //python -m SimpleHTTPServer
